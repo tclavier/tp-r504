@@ -1,0 +1,4 @@
+.vagrant
+.idea
+target/
+*.swp

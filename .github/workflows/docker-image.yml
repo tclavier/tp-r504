@@ -18,8 +18,8 @@ jobs:
       run: docker build . --file Dockerfile --tag myimage
     - name: build Pages
       run: |
-        docker run myimage echo "toto" > index.html
-
+        mkdir _site
+        docker run myimage echo "toto" > _site/index.html
     - name: Upload GitHub Pages artifact
       uses: actions/upload-pages-artifact@v1
 

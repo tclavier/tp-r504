@@ -1,0 +1,5 @@
+fr/sauceDallas/getThingsDone/todos/infra/hibernate/TodoHibernate.class
+fr/sauceDallas/getThingsDone/todos/infra/repository/TodosRepositoryImpl.class
+fr/sauceDallas/getThingsDone/todos/infra/InfraConfiguration.class
+fr/sauceDallas/getThingsDone/todos/infra/repository/TodoHibernateMapper.class
+fr/sauceDallas/getThingsDone/todos/infra/hibernate/TodosHibernateRepository.class

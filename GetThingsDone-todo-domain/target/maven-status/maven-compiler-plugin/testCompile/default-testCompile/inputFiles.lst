@@ -1,0 +1,6 @@
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-todo-domain/src/test/java/fr/sauceDallas/getThingsDone/todos/domain/validators/DescriptionValidatorTest.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-todo-domain/src/test/java/fr/sauceDallas/getThingsDone/todos/domain/validators/DueDateValidatorTest.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-todo-domain/src/test/java/fr/sauceDallas/getThingsDone/todos/domain/validators/TitleValidatorTest.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-todo-domain/src/test/java/fr/sauceDallas/getThingsDone/todos/presentation/TodoUpdateRequestTest.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-todo-domain/src/test/java/fr/sauceDallas/getThingsDone/todos/domain/validators/TodoIdValidatorTest.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-todo-domain/src/test/java/fr/sauceDallas/getThingsDone/todos/presentation/TodoCreationRequestTest.java

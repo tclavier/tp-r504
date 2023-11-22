@@ -1,0 +1,6 @@
+fr/sauceDallas/getThingsDone/todos/domain/validators/TodoIdValidatorTest.class
+fr/sauceDallas/getThingsDone/todos/presentation/TodoCreationRequestTest.class
+fr/sauceDallas/getThingsDone/todos/domain/validators/DueDateValidatorTest.class
+fr/sauceDallas/getThingsDone/todos/domain/validators/DescriptionValidatorTest.class
+fr/sauceDallas/getThingsDone/todos/presentation/TodoUpdateRequestTest.class
+fr/sauceDallas/getThingsDone/todos/domain/validators/TitleValidatorTest.class

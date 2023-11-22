@@ -1,0 +1,5 @@
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-infra/src/main/java/fr/sauceDallas/getThingsDone/todos/infra/repository/TodoHibernateMapper.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-infra/src/main/java/fr/sauceDallas/getThingsDone/todos/infra/InfraConfiguration.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-infra/src/main/java/fr/sauceDallas/getThingsDone/todos/infra/repository/TodosRepositoryImpl.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-infra/src/main/java/fr/sauceDallas/getThingsDone/todos/infra/hibernate/TodoHibernate.java
+/home/tom/workspace/gitlab.com/univlille/iut-info/r5.04/TP1/GetThingsDone-infra/src/main/java/fr/sauceDallas/getThingsDone/todos/infra/hibernate/TodosHibernateRepository.java

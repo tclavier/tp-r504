@@ -12,8 +12,10 @@ permissions:
   id-token: write
 
 jobs:
-
   pages:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
 
@@ -27,6 +29,7 @@ jobs:
         docker run myimage echo "toto" > _site/index.html
         echo "test" > _site/test.html
         cp README.md _site/
+        echo ${{ steps.deployment.outputs.page_url }}
     - name: Upload GitHub Pages artifact
       uses: actions/upload-pages-artifact@v1
 
